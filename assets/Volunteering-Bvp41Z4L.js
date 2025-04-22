@@ -1,0 +1,1 @@
+import{W as t}from"./WavesTitle-wmQW34LQ.js";import{j as o,w as a,o as s,b as r,t as n}from"./index-KM1-2ebT.js";const l={style:{color:"#006699"}},u={__name:"Volunteering",setup(c){return(e,i)=>(s(),o(t,null,{default:a(()=>[r("span",l,n(e.$t("menu.volunteering")),1)]),_:1}))}};export{u as default};
