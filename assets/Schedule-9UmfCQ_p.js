@@ -1,0 +1,1 @@
+import{W as t}from"./WavesTitle-BThn4kMd.js";import{j as a,w as s,o,b as r,t as c}from"./index-BbkP4n-I.js";const l={style:{color:"#006699"}},i={__name:"Schedule",setup(n){return(e,_)=>(o(),a(t,null,{default:s(()=>[r("span",l,c(e.$t("menu.Schedule")),1)]),_:1}))}};export{i as default};

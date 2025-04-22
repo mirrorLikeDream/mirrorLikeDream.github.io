@@ -1,0 +1,1 @@
+import{_ as o,a as t,b as s,k as n,o as r}from"./index-BbkP4n-I.js";const a={},c={class:"honorary-chairs"};function d(e,i){return r(),t("div",c,[s("h2",null,[n(e.$slots,"title",{},void 0)]),s("p",null,[n(e.$slots,"content",{},void 0)])])}const _=o(a,[["render",d],["__scopeId","data-v-75734d5c"]]);export{_ as C};
