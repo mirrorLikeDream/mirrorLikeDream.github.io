@@ -1,0 +1,1 @@
+import{W as e}from"./WavesTitle-BAR0ds9n.js";import{j as s,w as a,o,b as r,t as n}from"./index-Cedv7diD.js";const c={style:{color:"#006699"}},u={__name:"StudentsView",setup(l){return(t,_)=>(o(),s(e,null,{default:a(()=>[r("span",c,n(t.$t("menu.Students")),1)]),_:1}))}};export{u as default};
