@@ -1,0 +1,1 @@
+import{W as e}from"./WavesTitle-D4zWsgD7.js";import{j as a,w as o,o as r,i as s,t as i}from"./index-DgWBVb7y.js";const _={__name:"RegistrationView",setup(n){return(t,c)=>(r(),a(e,null,{default:o(()=>[s(i(t.$t("menu.Registration")),1)]),_:1}))}};export{_ as default};
