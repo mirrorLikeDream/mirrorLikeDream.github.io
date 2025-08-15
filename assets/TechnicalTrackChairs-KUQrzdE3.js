@@ -1,0 +1,1 @@
+import{W as e}from"./WavesTitle-CnI-bIq2.js";import{j as t,w as s,o as r,b as o,t as c}from"./index-yzlArd5p.js";const n={style:{color:"#006699"}},h={__name:"TechnicalTrackChairs",setup(i){return(a,l)=>(r(),t(e,null,{default:s(()=>[o("span",n,c(a.$t("menu.technicalTrackChairs")),1)]),_:1}))}};export{h as default};

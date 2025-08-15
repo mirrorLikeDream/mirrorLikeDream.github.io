@@ -1,0 +1,1 @@
+import{W as e}from"./WavesTitle-CnI-bIq2.js";import{j as a,w as o,o as r,i as s,t as i}from"./index-yzlArd5p.js";const p={__name:"AboutView",setup(n){return(t,u)=>(r(),a(e,null,{default:o(()=>[s(i(t.$t("menu.about")),1)]),_:1}))}};export{p as default};
