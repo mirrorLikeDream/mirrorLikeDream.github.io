@@ -1,0 +1,1 @@
+import{W as s}from"./WavesTitle-Bs4GopkF.js";import{j as t,w as a,o as r,b as o,t as n}from"./index-tKv6vtom.js";const i={style:{color:"#006699"}},m={__name:"GreetingMessageFromGeneralChairs",setup(l){return(e,c)=>(r(),t(s,null,{default:a(()=>[o("span",i,n(e.$t("menu.greetingMessage")),1)]),_:1}))}};export{m as default};

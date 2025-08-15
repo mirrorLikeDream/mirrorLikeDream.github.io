@@ -1,0 +1,1 @@
+import{W as e}from"./WavesTitle-Bs4GopkF.js";import{j as s,w as a,o,b as r,t as n}from"./index-tKv6vtom.js";const c={style:{color:"#006699"}},u={__name:"StudentsView",setup(l){return(t,_)=>(o(),s(e,null,{default:a(()=>[r("span",c,n(t.$t("menu.Students")),1)]),_:1}))}};export{u as default};
